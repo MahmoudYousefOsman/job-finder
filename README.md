@@ -41,12 +41,3 @@ This platform provides a centralized hub for job management, candidate tracking,
 * **Form Request Validation:** Robust backend data validation ensuring data integrity and preventing common security vulnerabilities (XSS, SQL Injection, CSRF).
 
 ---
-
-
-## ⚙️ Getting Started & Local Setup
-
-To run this platform locally, follow these steps:
-
- **Clone the repository:**
-   ```bash
-   git clone [https://github.com/MahmoudYousefOsman/job-finder.git](https://github.com/MahmoudYousefOsman/job-finder.git)
